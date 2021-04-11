@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace lineChart
 {
-    public partial class Form1 : Form
+    public partial class InsertData : System.Windows.Forms.Form
     {
-        public Form1()
+        public InsertData()
         {
             InitializeComponent();
         }

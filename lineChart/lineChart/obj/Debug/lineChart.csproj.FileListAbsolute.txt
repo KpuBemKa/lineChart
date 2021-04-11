@@ -1,0 +1,11 @@
+E:\dev\projects\lineChart\lineChart\lineChart\bin\Debug\lineChart.exe.config
+E:\dev\projects\lineChart\lineChart\lineChart\bin\Debug\lineChart.exe
+E:\dev\projects\lineChart\lineChart\lineChart\bin\Debug\lineChart.pdb
+E:\dev\projects\lineChart\lineChart\lineChart\obj\Debug\lineChart.csprojAssemblyReference.cache
+E:\dev\projects\lineChart\lineChart\lineChart\obj\Debug\lineChart.Form.resources
+E:\dev\projects\lineChart\lineChart\lineChart\obj\Debug\lineChart.Properties.Resources.resources
+E:\dev\projects\lineChart\lineChart\lineChart\obj\Debug\lineChart.csproj.GenerateResource.cache
+E:\dev\projects\lineChart\lineChart\lineChart\obj\Debug\lineChart.csproj.CoreCompileInputs.cache
+E:\dev\projects\lineChart\lineChart\lineChart\obj\Debug\lineChart.exe
+E:\dev\projects\lineChart\lineChart\lineChart\obj\Debug\lineChart.pdb
+E:\dev\projects\lineChart\lineChart\lineChart\obj\Debug\lineChart.InsertData.resources
