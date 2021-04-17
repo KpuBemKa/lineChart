@@ -101,6 +101,7 @@ namespace lineChart
             this.DeleteDataButton.TabIndex = 1;
             this.DeleteDataButton.Text = "Ștergerea datelor";
             this.DeleteDataButton.UseVisualStyleBackColor = true;
+            this.DeleteDataButton.Click += new System.EventHandler(this.DeleteDataButton_Click);
             // 
             // InsertDataButton
             // 
